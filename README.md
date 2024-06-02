@@ -1,12 +1,49 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
-<h3 align="center">A High school student who is seeking for opportunities. Bringing forth a motivated attitude and a variety of powerful skills. Lover of software programming specially Android Development, coding, and Graphic Design. having a good experience as a leader. Committed to utilizing my skills to further the mission of any position or opportunity.</h3>
+# Hi 👋, I'm Mohamed Ahmed
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-ahmed-b858212b0?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ahmed-b858212b0?" height="30" width="40" /></a>
-</p>
+### Android Developer | Software Programmer | Graphic Designer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heraless&show_icons=true&locale=en&layout=compact" alt="heraless" /></p>
+I'm a high school student passionate about leveraging technology to solve real-world problems. With a strong background in Android development, coding, and graphic design, I bring a motivated attitude and a diverse skill set to every project. I have also gained valuable leadership experience and am committed to utilizing my skills to further the mission of any position or opportunity.
+
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+
+### 🛠️ Languages and Tools
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### 📊 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 How to reach me
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
+- Email: your-email@example.com
+
+---
+
+### 🚀 Projects and Contributions
+- **Project 1:** Brief description of the project.
+- **Project 2:** Brief description of the project.
+- **Project 3:** Brief description of the project.
+
+---
+
+### 🏆 Achievements
+- **Award 1:** Description of the award/achievement.
+- **Award 2:** Description of the award/achievement.
+
+---
+
+### 💡 Interests
+- Android Development
+- Graphic Design
+- IoT and Arduino Projects
+- Open Source Contributions
