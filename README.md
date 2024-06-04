@@ -21,7 +21,7 @@ I'm a high school student passionate about leveraging technology to solve real-w
 ---
 
 ### 📫 How to reach me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-ahmed-b858212b0)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mohamed-ahmed-b858212b0)
 - Email: uiopmopo@gmail.com
 
 ---
